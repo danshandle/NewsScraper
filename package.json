@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thomasrios/FitToScrapeDeployed.git"
+    "url": "git+https://github.com/danshandle/NewsScraper"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thomasrios/FitToScrapeDeployed/issues"
+    "url": "https://github.com/danshandle/NewsScraper"
   },
-  "homepage": "https://github.com/thomasrios/Deployed#read-me",
+  "homepage": "https://github.com/danshandle/NewsScraper",
   "dependencies": {
     "axios": "^0.19.0",
     "cheerio": "^1.0.0-rc.3",
